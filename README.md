@@ -39,7 +39,7 @@ Heroku oneclick / Rapid deploy method available
 * No internet speed capping ,Enjoy Maximum download speed
 * 24x7 permanent link
 * No download limit or quota limit
-* pause download available (Use download Managers like ADM ,XDM, Aria2 for more stability)
+* pause download available (Use download Managers like ADM ,XDM, for more stability)
 
 ## Storage providers
 
